@@ -42,5 +42,3 @@ cd ../backend
 mvn spring-boot:run -Dspring-boot.run.profiles=mysql
 ```
 
-> Redis는 compose에 포함돼 있지만, 데모 코드는 Spring Cache(Simple)로 동작합니다.
-> 실서비스에서는 Redis CacheManager로 교체하면 됩니다.
