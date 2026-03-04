@@ -1,6 +1,6 @@
 # 자기개발 플랫폼 (구조 기반 구현 코드)
 
-문서에 나온 큰 흐름(프론트/백엔드 분리, JWT, 캐시, 스케줄러, CI)을 “동작 가능한 데모”로 구현했습니다.
+프론트/백엔드 분리, JWT, 캐시, 스케줄러, CI를 “동작 가능한 데모”로 구현했습니다.
 
 - Frontend: React + Recoil (Vite)
 - Backend: Spring Boot + JWT + JPA (기본 H2 / profile=mysql)
